@@ -10,6 +10,7 @@
 | powerpoints [数量] ([国タグ]) | 統治・外交・軍事力をすべて増やす。 | powerpoints 1000000 |
 | prestige [数量] ([国タグ]) | 名声(威信)を増やす。 | prestige 100 |
 | legitimacy [数量] ([国タグ]) | 正統性を増やす。 | legitimacy 100 |
+| stability [数量] ([国タグ]) | 安定度を増やす。 | stability 3 |
 | adm [数量] ([国タグ]) | 統治力を増やす。 | adm 100 |
 | dip [数量] ([国タグ]) | 外交力を増やす。 | dip 100 |
 | mil [数量] ([国タグ]) | 軍事力を増やす。 | mil 100 |
